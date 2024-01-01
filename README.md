@@ -1,7 +1,3 @@
-<h1 align="center"> Archaict </h1>
-<h4 align = "center"> <b> Hi, foundation sixty four here. </b><br>
-<i><sup> Agents, anomalies has been detected in your repo. </sup></i></h4>
-
 <div align="justify">
 
 <!-- Profile -->
@@ -9,10 +5,10 @@
   <p align="center">
     <samp>
       <b>
-        Howdy howdy!
+        Howdy!
       <br>
-        Arch here, currently on a very long journey ahead. 
-      </b>
+        Arc here, Currently on a very long journey ahead. 
+      </b><br>
       <b>
         + arc +
       </b>
